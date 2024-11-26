@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    text-shadow: #FC0 1px 0 10px;;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: wavy;
+    color:  #fa7e1e;
+    
+}
+a{
+    font-style: none;
+}
+#user{
+    text-align: center;
+   ;
+    
+}
+#pass{
+    text-align: center;
+}
+
+.op{
+    align-items: center;
+    background-color: rgb(86, 197, 241);
+}
+#para{
+    text-align: center;
+}
+body{
+    border: 200px  ;
+    background-color: rgb(255, 253, 253);
+    background-color: rgb(246, 246, 193);
+    background-size: cover;
+    backface-visibility: 50px;
+    background-image: url("insta.avif");
+}
